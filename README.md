@@ -16,17 +16,18 @@
 
 ## Token
 
-* [neoburger/code/BurgerNEO.cs](https://github.com/neoburger/code/blob/main/BurgerNEO.cs) - The source code of bNeo.
+* [neoburger/code/BurgerNEO.cs](https://github.com/neoburger/code/blob/main/BurgerNEO.cs) - The source code of bNeo. `C#`
 
-* [NoBug](https://github.com/neoburger/code/blob/main/NeoBurgerGovernanceToken.cs) - NeoBurger Governance Token.
+* [NoBug](https://github.com/neoburger/code/blob/main/NeoBurgerGovernanceToken.cs) - NeoBurger Governance Token. `C#`
 
 ## DAO
 
+* [AxLabs/generic-governance](https://github.com/AxLabs/generic-governance) - Sample code for a generic governance contract. `Java`
 
 ## Defi
 
-* [flamingo-finance/flamingo-contract-swap](https://github.com/flamingo-finance/flamingo-contract-swap) - Flamingo Swap is Flamingo’s on-chain Auto Market Maker (AMM).
+* [flamingo-finance/flamingo-contract-swap](https://github.com/flamingo-finance/flamingo-contract-swap) - Flamingo Swap is Flamingo’s on-chain Auto Market Maker (AMM). `C#`
 
 ## GameFi
 
-* [LexiccLabs/RookNet](https://github.com/LexiccLabs/RookNet) - NEO Protocol Implementation of Ancient Chess Concepts using Oracles and Ontological Tokens. 
+* [LexiccLabs/RookNet](https://github.com/LexiccLabs/RookNet) - NEO Protocol Implementation of Ancient Chess Concepts using Oracles and Ontological Tokens. `C#`
