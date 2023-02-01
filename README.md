@@ -12,6 +12,7 @@
 - [DAO](#DAO)
 - [DeFi](#Defi)
 - [GameFi](#GameFi)
+- [NFT](#NFT)
 
 
 ## Token
@@ -24,6 +25,10 @@
 
 * [AxLabs/generic-governance](https://github.com/AxLabs/generic-governance) - Sample code for a generic governance contract. `Java`
 
+* [mecvillarina/LatchBox](https://github.com/mecvillarina/LatchBox) - LatchBox is a fully decentralized token lock and vesting platform on Neo Blockchain (N3). `C#`
+
+* [LeonardoConde/daonators](https://github.com/LeonardoConde/daonators) - A donation platform. `python`
+
 ## Defi
 
 * [flamingo-finance/flamingo-contract-swap](https://github.com/flamingo-finance/flamingo-contract-swap) - Flamingo Swap is Flamingo’s on-chain Auto Market Maker (AMM). `C#`
@@ -31,3 +36,7 @@
 ## GameFi
 
 * [LexiccLabs/RookNet](https://github.com/LexiccLabs/RookNet) - NEO Protocol Implementation of Ancient Chess Concepts using Oracles and Ontological Tokens. `C#`
+
+## NFT
+
+* [qvanphong/bit-nft-smart-contract](https://github.com/qvanphong/bit-nft-smart-contract) - This is a boilerplate project setup for Java smart contracts. It brings the minimum amount of code to compile and test a "Hello World" smart contract for Neo N3. `Java`
